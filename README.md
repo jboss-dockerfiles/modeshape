@@ -18,4 +18,4 @@ Clone the repo and build yourself:
 ## Contributing
 
 Patches are welcome, just send a pull request and I will be happy on merging it. If you want more images, [open issues
-with the request](https://github.com/jboss/dockerfiles/issues).
+with the request](https://github.com/jboss-dockerfiles/modeshape/issues).
