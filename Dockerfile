@@ -1,4 +1,4 @@
-FROM jboss/wildfly:latest
+FROM jboss/wildfly:9.0.2.Final
 
 ENV MODESHAPE_VERSION 4.4.0.Final
 
